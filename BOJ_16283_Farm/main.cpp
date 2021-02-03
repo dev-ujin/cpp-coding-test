@@ -1,7 +1,3 @@
-/*
-문제 : https://www.acmicpc.net/problem/16283
-*/
-
 #include <iostream>
 using namespace std;
 
